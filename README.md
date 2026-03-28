@@ -1,5 +1,3 @@
-# login-registration-system
-PHP Registration and Login Page
  # Login Registration System
 
 ## Description
