@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.msg {
+    color: red;
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+
+.form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f2dfe9;   
+}
+
+.form form {
+    background-color: #e37dcf;
+    text-align: center;
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 30rem;
+}
+
+.form form h2 {
+    margin-bottom: 1.5rem;
+    color: #fff;
+}
+.form form .form-group {
+    margin-bottom: 1rem;
+}
+.form form .form-control {
+    width: 100%;
+    padding: 0.5rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+.form form .btn {
+    background-color: #fff;
+    color: #e37dcf;
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+.form form .btn:hover {
+    background-color: #7d5275;
+    color: #fff;
+}
+.form form p {  
+    margin-top: 1rem;
+    color: #fff;
+}
+.form form p a {
+    color: #fff;
+    text-decoration: underline;
+}
+.form form p a:hover {
+    color: #342f33;
+}
+
