@@ -18,3 +18,9 @@ This is a PHP-based login and registration system.
 1. Start XAMPP
 2. Move project to htdocs
 3. Run localhost/registration
+
+## 📷 Screenshots
+
+![Login Page](images/login.png)
+![Registration Page](images/registration.png)
+![Admin Page](images/admin.png)
